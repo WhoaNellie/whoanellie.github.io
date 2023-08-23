@@ -128,10 +128,6 @@ footer {
   }
 }
 
-#generator {
-  font-size: 7.5pt;
-}
-
 .projText {
   fill: #fbf8e5;
 }
@@ -140,7 +136,7 @@ footer {
 }
 
 #weather {
-  font-size: 10pt;
+  font-size: 11pt;
 }
 
 #dashboard {
@@ -335,7 +331,7 @@ footer {
 }
 
 .address {
-  font-size: 3.1pt;
+  font-size: 3pt;
 }
 
 .download {
