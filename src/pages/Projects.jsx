@@ -216,7 +216,7 @@ function Projects(){
               </text>
             </a>
 
-            <a className="triLink" href="https://calendy.nellienelson.com/">
+            <a className="triLink" href="http://calendy.nellienelson.com/">
               <polygon
                 className="shape"
                 points="50 43, 75 86, 100 43"
