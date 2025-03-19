@@ -70,7 +70,7 @@ function Projects(){
               </text>
             </a>
 
-            <a className="triLink" href="http://ringstrue.nellienelson.com/">
+            <a className="triLink" href="https://nellienelson.com/ringsTrue/">
               <polygon
                 className="shape"
                 points="50 43, 75 86, 100 43"
