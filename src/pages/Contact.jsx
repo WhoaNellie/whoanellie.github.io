@@ -41,7 +41,7 @@ function Contact(){
                 <polygon className="shape" points="25,43 50,0 100,0 75,43" strokeWidth="0" fill="#fbf8e5"></polygon>
 
                 <text x="48" y="17" className="info resume">resume</text>
-                <a href="./assets/files/NelsonResume.pdf" download="NelsonResume">
+                <a href="./assets/files/resume.pdf" download="NelsonResume">
                     <image width="18" x="10" y="9" href="assets/images/download.svg"></image>
                     <text x="39" y="30" className="info download">download</text>
                 </a>
