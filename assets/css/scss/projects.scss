@@ -39,6 +39,18 @@ $drawing-yellow: #fbf8e5;
     fill-opacity: 50%;
 }
 
+.svgIcon {
+    pointer-events: visiblePainted;
+    cursor: pointer;
+}
+
+.underConstruction {
+    opacity: 0.75;
+}
+
+.underConstruction:hover {
+    opacity: 0.5;
+}
 @media screen and (min-width: 550px){
     .fullHex.left{
         grid-row: 5;
